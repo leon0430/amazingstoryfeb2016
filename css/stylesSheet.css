@@ -1,0 +1,71 @@
+@font-face{
+font-family: Seaside; 
+src: url("../font/SeasideResortNF/SEASRN__.ttf");
+font-family: GoodDog; 
+src: url("../font/GoodDog/GoodDog.otf");
+}
+body {
+	background-color: #81BEF7;
+	background-image: url("../pic/IC_bg.jpg");
+	background-size:
+}
+
+.transparent_b {
+	background: rgba(255, 255, 255, 0.7);
+	margin: 5%;
+	padding: 5%;
+}
+
+p {
+	color: #BEF781;
+	font-family: 'Open Sans', sans-serif; font-weight: 400;
+	text-shadow: 0.5px 0.5px rgba(166, 166, 166, 1.2);
+	color: rgba(102, 255, 153, 0.5);
+	text-align: left;
+	font-size: 1.25em;
+	/*box-shadow: 10px 10px 5px #F5F6C;*/
+}
+h1 {
+	text-align: center;
+	color: #F5A9A9;
+	font-size: 3.5em;
+	font-family: GoodDog;
+}
+
+h2 {
+	text-align: left;
+	font-family: Seaside;
+	color: 	#99b3ff
+}
+
+h3 {
+	text-align: center;
+	color: #000099;
+	font-size:1.5em;
+	font-family: 'Coming Soon', cursive; font-weight: 400;
+}
+
+.firstLetter {
+	font-size: 100px;
+}
+.firstLetter:hover {
+	color: #8258FA
+}
+
+.myLinks:hover {
+	color: #8258FA
+}
+
+.myLinks {
+	color: #ff6699;
+	text-decoration: none;
+}
+
+img {
+	float: left;
+}
+
+
+
+
+
